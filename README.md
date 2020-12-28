@@ -4,7 +4,7 @@
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
-[![Get string session](https://repl.it/badge/github/ivetri/tamilbot)](https://generatestringsession.sandeep1709.repl.run/)
+[![Get string session](https://repl.it/badge/github/ivetri/tamilbot)](https://generatestringsession.ivetri.repl.run/)
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fivetri%2Ftamilbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fivetri%2Ftamilbot)
 <p align="center">
